@@ -13,7 +13,7 @@ public class AgeGroup {
 
     public static void main(String[] args) {
 
-        int age = 10;  // WEe have initializeited the age varible and assigned a value 10 to it.
+        int age = 10;  // WEe have initialized the age variable and assigned a value 10 to it.
 
         boolean isKId = age <= 13;
         boolean isSenior = age >= 65;

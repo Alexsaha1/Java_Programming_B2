@@ -11,7 +11,7 @@ public class ScannerIntro {
         System.out.println("-----------------------");
 
         Scanner input = new Scanner(System.in); // I create a Scanner object
-        System.out.println("Please enter a number: ");
+        System.out.print("Enter number 1: ");
         int num = input.nextInt();  // 78
         System.out.println("If I add 3 to your number, it will be: " + (num + 3));
 
