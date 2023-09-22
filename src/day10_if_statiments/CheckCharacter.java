@@ -1,4 +1,4 @@
-package day_10_if_statiments;
+package day10_if_statiments;
 
 public class CheckCharacter {
       /*
