@@ -1,4 +1,4 @@
-package dy35_inheritance.person;
+package day35_inheritance.person;
 
 public class Runner {
     public static void main(String[] args) {

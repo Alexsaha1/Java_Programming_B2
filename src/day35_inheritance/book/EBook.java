@@ -1,4 +1,4 @@
-package dy35_inheritance.book;
+package day35_inheritance.book;
 
 public class EBook extends Book{
 

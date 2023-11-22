@@ -1,4 +1,4 @@
-package dy35_inheritance.multi_level_inheritance;
+package day35_inheritance.multi_level_inheritance;
 
 public class A {
 

@@ -1,4 +1,4 @@
-package dy35_inheritance.computer;
+package day35_inheritance.computer;
 
         public class Store {
             public static void main(String[] args) {
