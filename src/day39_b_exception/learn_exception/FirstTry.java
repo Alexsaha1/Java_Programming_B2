@@ -15,11 +15,9 @@ public class FirstTry {
             System.out.println(word.charAt(4));
         } catch (Exception e) {
             System.out.println("Exception message: Exception Happened. Come back and check");
+            e.printStackTrace();
+            System.out.println(e.getMessage());
         }
-
-
-
-
 
         System.out.println("Last Line");
 
